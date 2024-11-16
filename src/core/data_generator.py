@@ -20,7 +20,7 @@ data = {
 customers_large_df = pd.DataFrame(data)
 
 # Salvando como um arquivo CSV e ajustando o número de linhas até atingir ~1MB
-file_path_large = r"C:\Users\rapha\Documents\Github\zero-to-airbyte\customers.csv"
+file_path_large = r"C:\Users\rapha\Documents\Github\zero-to-airbyte\data\customers.csv"
 customers_large_df.to_csv(file_path_large, index=False)
 
 # Verificando o tamanho do arquivo e ajustando se necessário
