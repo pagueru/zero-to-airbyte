@@ -1,0 +1,4 @@
+feat: teste de utilizacao de commit_message.txt
+
+- Teste de topico 1
+- Teste de topico 2

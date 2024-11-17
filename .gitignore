@@ -177,5 +177,8 @@ pyrightconfig.json
 
 ####
 
+# .gitignore adicional
 docs.md
 config/secrets/*.csv
+*/__pycache__
+*/*/__pycache__

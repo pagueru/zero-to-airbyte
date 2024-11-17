@@ -1,0 +1,9 @@
+# Título do Commit (curto, imperativo, 50 caracteres)
+Corrige problema na exibição de relatórios
+
+# Corpo do Commit (detalhes, 72 caracteres por linha)
+Descreva o que foi alterado e por que foi necessário. Inclua
+qualquer contexto adicional ou links para PRs e issues.
+
+# Referências (opcional)
+Fixes: #123

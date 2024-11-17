@@ -6,10 +6,6 @@
 
 [corpo opcional]
 
-<tipo>[escopo opcional]: <descrição curta>
-
-[corpo opcional]
-
 [rodapé opcional]
 
 ## Tipos de commit
