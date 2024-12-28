@@ -1,4 +1,4 @@
-# Projeto: Zero to Airbyte
+# zero-to-airbyte
 
 Este repositório acompanha o vídeo do [Alan Lanceloth](https://github.com/alanceloth), instrutor da Jornada de Dados, intitulado [Como sair do ZERO no AIRBYTE](https://youtu.be/4hQroajva0s). O objetivo principal é aprender os fundamentos da ferramenta **Airbyte** por meio de uma abordagem prática (hands-on), implementando conceitos básicos que já foram explorados em projetos pessoais.
 
